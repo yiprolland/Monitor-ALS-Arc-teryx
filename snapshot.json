@@ -25,6 +25,7 @@
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
+      "USE WEBSITE IN A SCREEN-READER MODE",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XL",
@@ -34,7 +35,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-hoodie-womens-10453371/p",
-    "last_seen": "2025-11-17T14:43:06.983388+00:00",
+    "last_seen": "2025-11-17T15:40:42.647545+00:00",
     "key": "arcteryx-atom-hoodie-womens-10453371"
   },
   "arcteryx-rush-snow-jacket-mens-10609799": {
@@ -44,7 +45,6 @@
     "currency": "$",
     "price": 800.0,
     "sizes_avail": [
-      "CLOSE",
       "FEATURES",
       "L",
       "M",
@@ -52,14 +52,13 @@
       "RECEIVE CODE BY EMAIL",
       "S",
       "SIGN IN W/ GOOGLE",
-      "USE MY LOCATION",
       "XL",
       "XXL",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-rush-snow-jacket-mens-10609799/p",
-    "last_seen": "2025-11-17T14:43:09.950293+00:00",
+    "last_seen": "2025-11-17T15:40:46.016711+00:00",
     "key": "arcteryx-rush-snow-jacket-mens-10609799"
   },
   "arcteryx-rush-bib-pant-mens-10609800": {
@@ -98,7 +97,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-rush-bib-pant-mens-10609800/p",
-    "last_seen": "2025-11-17T14:43:13.475475+00:00",
+    "last_seen": "2025-11-17T15:40:49.802343+00:00",
     "key": "arcteryx-rush-bib-pant-mens-10609800"
   },
   "arcteryx-atom-hooded-jacket-mens-10602853": {
@@ -132,11 +131,11 @@
       "XS",
       "XXL",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-hooded-jacket-mens-10602853/p",
-    "last_seen": "2025-11-17T14:43:17.325684+00:00",
+    "last_seen": "2025-11-17T15:40:53.858541+00:00",
     "key": "arcteryx-atom-hooded-jacket-mens-10602853"
   },
   "arcteryx-thorium-hoody-mens-10609910": {
@@ -146,23 +145,34 @@
     "currency": "$",
     "price": 500.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
       "CLOSE",
       "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
+      "FILTER ICON",
+      "INCLUDES",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
       "S",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
       "USE MY LOCATION",
       "XL",
       "XXL",
+      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-thorium-hoody-mens-10609910/p",
-    "last_seen": "2025-11-17T14:43:20.724925+00:00",
+    "last_seen": "2025-11-17T15:40:57.933790+00:00",
     "key": "arcteryx-thorium-hoody-mens-10609910"
   },
   "arcteryx-atom-sl-jacket-womens-10602850": {
@@ -178,6 +188,7 @@
       "CANCEL",
       "CLEAR",
       "CLOSE",
+      "CONFIRM MY CHOICES",
       "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
       "FILTER ICON",
@@ -188,15 +199,16 @@
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
+      "USE WEBSITE IN A SCREEN-READER MODE",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XS",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-sl-jacket-womens-10602850/p",
-    "last_seen": "2025-11-17T14:43:24.291444+00:00",
+    "last_seen": "2025-11-17T15:41:01.934432+00:00",
     "key": "arcteryx-atom-sl-jacket-womens-10602850"
   },
   "arcteryx-sabre-insulated-snow-jacket-mens-10609801": {
@@ -233,7 +245,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sabre-insulated-snow-jacket-mens-10609801/p",
-    "last_seen": "2025-11-17T14:43:27.914300+00:00",
+    "last_seen": "2025-11-17T15:41:05.894244+00:00",
     "key": "arcteryx-sabre-insulated-snow-jacket-mens-10609801"
   },
   "arcteryx-gamma-mx-hoodie-mens-10616040": {
@@ -269,7 +281,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-gamma-mx-hoodie-mens-10616040/p",
-    "last_seen": "2025-11-17T14:43:31.664017+00:00",
+    "last_seen": "2025-11-17T15:41:09.391162+00:00",
     "key": "arcteryx-gamma-mx-hoodie-mens-10616040"
   },
   "arcteryx-rush-snow-jacket-womens-10609805": {
@@ -279,21 +291,33 @@
     "currency": "$",
     "price": 800.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
+      "CLOSE",
+      "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
+      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
       "S",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
       "USE MY LOCATION",
       "XL",
       "XS",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR PRIVACY CHOICES",
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-rush-snow-jacket-womens-10609805/p",
-    "last_seen": "2025-11-17T14:43:35.630388+00:00",
+    "last_seen": "2025-11-17T15:41:12.997411+00:00",
     "key": "arcteryx-rush-snow-jacket-womens-10609805"
   },
   "arcteryx-atom-vest-mens-10489199": {
@@ -303,18 +327,19 @@
     "currency": "$",
     "price": 200.0,
     "sizes_avail": [
+      "CLOSE",
       "FEATURES",
-      "FORGOT PASSWORD",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
       "SIGN IN W/ GOOGLE",
+      "USE MY LOCATION",
       "XL",
       "XXL",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-vest-mens-10489199/p",
-    "last_seen": "2025-11-17T14:43:38.585084+00:00",
+    "last_seen": "2025-11-17T15:41:16.448177+00:00",
     "key": "arcteryx-atom-vest-mens-10489199"
   },
   "arcteryx-sentinel-insulated-pant-womens-10609802": {
@@ -346,7 +371,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sentinel-insulated-pant-womens-10609802/p",
-    "last_seen": "2025-11-17T14:43:41.711850+00:00",
+    "last_seen": "2025-11-17T15:41:20.558610+00:00",
     "key": "arcteryx-sentinel-insulated-pant-womens-10609802"
   },
   "arcteryx-kragg-sl-cotton-bird-word-short-sleeve-shirt-mens-10602868": {
@@ -356,32 +381,19 @@
     "currency": "$",
     "price": 70.0,
     "sizes_avail": [
-      "ACCEPT COOKIES",
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
-      "CLOSE",
-      "DETAILS",
-      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
-      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
-      "REJECT ALL",
       "SIGN IN W/ GOOGLE",
-      "SUBMIT",
-      "USE MY LOCATION",
       "XL",
       "XXL",
-      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-sl-cotton-bird-word-short-sleeve-shirt-mens-10602868/p",
-    "last_seen": "2025-11-17T14:43:45.028316+00:00",
+    "last_seen": "2025-11-17T15:41:23.832005+00:00",
     "key": "arcteryx-kragg-sl-cotton-bird-word-short-sleeve-shirt-mens-10602868"
   },
   "arcteryx-sentinel-bib-pant-womens-10575698": {
@@ -414,7 +426,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sentinel-bib-pant-womens-10575698/p",
-    "last_seen": "2025-11-17T14:43:48.406343+00:00",
+    "last_seen": "2025-11-17T15:41:27.734238+00:00",
     "key": "arcteryx-sentinel-bib-pant-womens-10575698"
   },
   "arcteryx-delta-hoodie-mens-10609099": {
@@ -443,11 +455,11 @@
       "SUBMIT",
       "USE MY LOCATION",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-hoodie-mens-10609099/p",
-    "last_seen": "2025-11-17T14:43:51.847661+00:00",
+    "last_seen": "2025-11-17T15:41:31.812617+00:00",
     "key": "arcteryx-delta-hoodie-mens-10609099"
   },
   "arcteryx-sentinel-insulated-jacket-womens-10575696": {
@@ -457,23 +469,35 @@
     "currency": "$",
     "price": 850.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
+      "CLOSE",
+      "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
+      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
       "S",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
       "USE MY LOCATION",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XL",
       "XS",
+      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sentinel-insulated-jacket-womens-10575696/p",
-    "last_seen": "2025-11-17T14:43:54.889217+00:00",
+    "last_seen": "2025-11-17T15:41:35.862043+00:00",
     "key": "arcteryx-sentinel-insulated-jacket-womens-10575696"
   },
   "arcteryx-cronin-cotton-overshirt-mens-10575694": {
@@ -509,7 +533,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cronin-cotton-overshirt-mens-10575694/p",
-    "last_seen": "2025-11-17T14:43:57.880229+00:00",
+    "last_seen": "2025-11-17T15:41:39.895603+00:00",
     "key": "arcteryx-cronin-cotton-overshirt-mens-10575694"
   },
   "arcteryx-bird-word-trucker-curved-hat-10505569": {
@@ -519,11 +543,19 @@
     "currency": "$",
     "price": 50.0,
     "sizes_avail": [
-      "MAKE MY STORE"
+      "CLOSE",
+      "FEATURES",
+      "L/XL",
+      "MAKE MY STORE",
+      "RECEIVE CODE BY EMAIL",
+      "S/M",
+      "SIGN IN W/ GOOGLE",
+      "USE MY LOCATION",
+      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-bird-word-trucker-curved-hat-10505569/p",
-    "last_seen": "2025-11-17T14:44:00.372881+00:00",
+    "last_seen": "2025-11-17T15:41:43.332159+00:00",
     "key": "arcteryx-bird-word-trucker-curved-hat-10505569"
   },
   "arcteryx-kyanite-hoody-mens-10575693": {
@@ -557,11 +589,11 @@
       "XL",
       "XXL",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kyanite-hoody-mens-10575693/p",
-    "last_seen": "2025-11-17T14:44:03.663638+00:00",
+    "last_seen": "2025-11-17T15:41:47.303158+00:00",
     "key": "arcteryx-kyanite-hoody-mens-10575693"
   },
   "arcteryx-cerium-jacket-mens-10575689": {
@@ -571,24 +603,37 @@
     "currency": "$",
     "price": 380.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
+      "CLOSE",
+      "CONFIRM MY CHOICES",
+      "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
-      "FORGOT PASSWORD",
+      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
       "S",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
       "USE MY LOCATION",
+      "USE WEBSITE IN A SCREEN-READER MODE",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XL",
       "XXL",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR PRIVACY CHOICES",
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cerium-jacket-mens-10575689/p",
-    "last_seen": "2025-11-17T14:44:06.911016+00:00",
+    "last_seen": "2025-11-17T15:41:51.202016+00:00",
     "key": "arcteryx-cerium-jacket-mens-10575689"
   },
   "arcteryx-delta-jacket-mens-10575708": {
@@ -620,11 +665,11 @@
       "XL",
       "XXL",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-jacket-mens-10575708/p",
-    "last_seen": "2025-11-17T14:44:10.078961+00:00",
+    "last_seen": "2025-11-17T15:41:54.909165+00:00",
     "key": "arcteryx-delta-jacket-mens-10575708"
   },
   "arcteryx-elec-insulated-jacket-womens-10609904": {
@@ -659,7 +704,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-elec-insulated-jacket-womens-10609904/p",
-    "last_seen": "2025-11-17T14:44:14.223157+00:00",
+    "last_seen": "2025-11-17T15:41:58.673234+00:00",
     "key": "arcteryx-elec-insulated-jacket-womens-10609904"
   },
   "arcteryx-beta-pant-womens-10609804": {
@@ -668,26 +713,6 @@
     "color": "Black* Requires selection",
     "currency": "$",
     "price": 300.0,
-    "sizes_avail": [
-      "FEATURES",
-      "MAKE MY STORE",
-      "RECEIVE CODE BY EMAIL",
-      "REGULAR",
-      "SIGN IN W/ GOOGLE",
-      "USE MY LOCATION",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
-    ],
-    "in_stock": true,
-    "url": "https://www.als.com/arcteryx-beta-pant-womens-10609804/p",
-    "last_seen": "2025-11-17T14:44:17.370382+00:00",
-    "key": "arcteryx-beta-pant-womens-10609804"
-  },
-  "arcteryx-konseal-hybrid-hoodie-mens-10609097": {
-    "title": "Konseal Hybrid Hoodie - Men's",
-    "sku": "",
-    "color": "",
-    "currency": "$",
-    "price": 0.0,
     "sizes_avail": [
       "ACCEPT COOKIES",
       "ALLOW ALL",
@@ -701,18 +726,40 @@
       "FILTER ICON",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REGULAR",
       "REJECT ALL",
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
-      "VIEW FEWER IMAGES",
-      "VIEW MORE IMAGES",
       "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
+    "url": "https://www.als.com/arcteryx-beta-pant-womens-10609804/p",
+    "last_seen": "2025-11-17T15:42:02.433385+00:00",
+    "key": "arcteryx-beta-pant-womens-10609804"
+  },
+  "arcteryx-konseal-hybrid-hoodie-mens-10609097": {
+    "title": "Konseal Hybrid Hoodie - Men's",
+    "sku": "",
+    "color": "Electra / Soulsonic* Requires selection",
+    "currency": "$",
+    "price": 240.0,
+    "sizes_avail": [
+      "CLOSE",
+      "FEATURES",
+      "M",
+      "MAKE MY STORE",
+      "RECEIVE CODE BY EMAIL",
+      "SIGN IN W/ GOOGLE",
+      "USE MY LOCATION",
+      "VIEW FEWER IMAGES",
+      "VIEW MORE IMAGES",
+      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+    ],
+    "in_stock": true,
     "url": "https://www.als.com/arcteryx-konseal-hybrid-hoodie-mens-10609097/p",
-    "last_seen": "2025-11-17T14:44:20.719722+00:00",
+    "last_seen": "2025-11-17T15:42:05.527042+00:00",
     "key": "arcteryx-konseal-hybrid-hoodie-mens-10609097"
   },
   "arcteryx-beta-pant-mens-10609798": {
@@ -722,23 +769,34 @@
     "currency": "$",
     "price": 300.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
       "CLOSE",
+      "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
+      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
       "REGULAR",
+      "REJECT ALL",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
       "USE MY LOCATION",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XL",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR PRIVACY CHOICES",
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-beta-pant-mens-10609798/p",
-    "last_seen": "2025-11-17T14:44:23.821752+00:00",
+    "last_seen": "2025-11-17T15:42:09.350032+00:00",
     "key": "arcteryx-beta-pant-mens-10609798"
   },
   "arcteryx-delta-crew-neck-pullover-womens-10602846": {
@@ -776,7 +834,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-crew-neck-pullover-womens-10602846/p",
-    "last_seen": "2025-11-17T14:44:28.749175+00:00",
+    "last_seen": "2025-11-17T15:42:13.240443+00:00",
     "key": "arcteryx-delta-crew-neck-pullover-womens-10602846"
   },
   "arcteryx-gamma-pant-womens-10602874": {
@@ -792,6 +850,7 @@
       "CANCEL",
       "CLEAR",
       "CLOSE",
+      "CONFIRM MY CHOICES",
       "DETAILS",
       "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
@@ -809,7 +868,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-gamma-pant-womens-10602874/p",
-    "last_seen": "2025-11-17T14:44:32.190070+00:00",
+    "last_seen": "2025-11-17T15:42:16.906752+00:00",
     "key": "arcteryx-gamma-pant-womens-10602874"
   },
   "arcteryx-delta-jacket-womens-10609907": {
@@ -843,7 +902,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-jacket-womens-10609907/p",
-    "last_seen": "2025-11-17T14:44:35.663355+00:00",
+    "last_seen": "2025-11-17T15:42:20.742878+00:00",
     "key": "arcteryx-delta-jacket-womens-10609907"
   },
   "arcteryx-emblem-fleece-crew-neck-pullover-womens-10609908": {
@@ -852,6 +911,39 @@
     "color": "Rune* Requires selection",
     "currency": "$",
     "price": 110.0,
+    "sizes_avail": [
+      "MAKE MY STORE",
+      "MY AL'S FIND YOUR STORE",
+      "RECEIVE CODE BY EMAIL",
+      "XS"
+    ],
+    "in_stock": true,
+    "url": "https://www.als.com/arcteryx-emblem-fleece-crew-neck-pullover-womens-10609908/p",
+    "last_seen": "2025-11-17T15:42:24.076262+00:00",
+    "key": "arcteryx-emblem-fleece-crew-neck-pullover-womens-10609908"
+  },
+  "arcteryx-beta-jacket-mens-10575692": {
+    "title": "Beta Jacket - Men's",
+    "sku": "",
+    "color": "Black Sapphire X* Requires selection",
+    "currency": "$",
+    "price": 400.0,
+    "sizes_avail": [
+      "MAKE MY STORE",
+      "VIEW MORE IMAGES",
+      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+    ],
+    "in_stock": true,
+    "url": "https://www.als.com/arcteryx-beta-jacket-mens-10575692/p",
+    "last_seen": "2025-11-17T15:42:26.659446+00:00",
+    "key": "arcteryx-beta-jacket-mens-10575692"
+  },
+  "arcteryx-delta-12-zip-pullover-mens-10609914": {
+    "title": "Delta 1/2 Zip Pullover - Men's",
+    "sku": "",
+    "color": "Select Color* Requires selection",
+    "currency": "$",
+    "price": 180.0,
     "sizes_avail": [
       "ACCEPT COOKIES",
       "ALLOW ALL",
@@ -873,55 +965,13 @@
       "SUBMIT",
       "USE MY LOCATION",
       "XL",
-      "XS",
-      "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
-    ],
-    "in_stock": true,
-    "url": "https://www.als.com/arcteryx-emblem-fleece-crew-neck-pullover-womens-10609908/p",
-    "last_seen": "2025-11-17T14:44:39.176265+00:00",
-    "key": "arcteryx-emblem-fleece-crew-neck-pullover-womens-10609908"
-  },
-  "arcteryx-beta-jacket-mens-10575692": {
-    "title": "Beta Jacket - Men's",
-    "sku": "",
-    "color": "Black Sapphire X* Requires selection",
-    "currency": "$",
-    "price": 400.0,
-    "sizes_avail": [
-      "3XL",
-      "DETAILS",
-      "FEATURES",
-      "RECEIVE CODE BY EMAIL",
-      "SIGN IN W/ GOOGLE",
-      "SUBMIT",
-      "VIEW FEWER IMAGES",
-      "VIEW MORE IMAGES",
-      "XL",
       "XXL",
       "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
-    "url": "https://www.als.com/arcteryx-beta-jacket-mens-10575692/p",
-    "last_seen": "2025-11-17T14:44:42.144966+00:00",
-    "key": "arcteryx-beta-jacket-mens-10575692"
-  },
-  "arcteryx-delta-12-zip-pullover-mens-10609914": {
-    "title": "Delta 1/2 Zip Pullover - Men's",
-    "sku": "",
-    "color": "Select Color* Requires selection",
-    "currency": "$",
-    "price": 180.0,
-    "sizes_avail": [
-      "L",
-      "M",
-      "MAKE MY STORE",
-      "S"
-    ],
-    "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-12-zip-pullover-mens-10609914/p",
-    "last_seen": "2025-11-17T14:44:44.383202+00:00",
+    "last_seen": "2025-11-17T15:42:30.566012+00:00",
     "key": "arcteryx-delta-12-zip-pullover-mens-10609914"
   },
   "arcteryx-kyanite-hoody-mens-10609911": {
@@ -953,11 +1003,11 @@
       "XL",
       "XXL",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kyanite-hoody-mens-10609911/p",
-    "last_seen": "2025-11-17T14:44:47.548133+00:00",
+    "last_seen": "2025-11-17T15:42:34.890482+00:00",
     "key": "arcteryx-kyanite-hoody-mens-10609911"
   },
   "arcteryx-atom-vest-womens-10575687": {
@@ -987,19 +1037,19 @@
       "XL",
       "XS",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-vest-womens-10575687/p",
-    "last_seen": "2025-11-17T14:44:50.789301+00:00",
+    "last_seen": "2025-11-17T15:42:38.850466+00:00",
     "key": "arcteryx-atom-vest-womens-10575687"
   },
-  "arcteryx-small-bird-cap-10602844": {
-    "title": "Small Bird Cap",
+  "arcteryx-bird-head-toque-beanie-10575702": {
+    "title": "Bird Head Toque Beanie",
     "sku": "",
-    "color": "Select Color* Requires selection",
+    "color": "Euphoria / Olive Moss* Requires selection",
     "currency": "$",
-    "price": 50.0,
+    "price": 60.0,
     "sizes_avail": [
       "ACCEPT COOKIES",
       "ALLOW ALL",
@@ -1011,11 +1061,10 @@
       "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
       "FILTER ICON",
-      "L/XL",
       "MAKE MY STORE",
+      "ONE SIZE",
       "RECEIVE CODE BY EMAIL",
       "REJECT ALL",
-      "S/M",
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
@@ -1023,8 +1072,27 @@
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
+    "url": "https://www.als.com/arcteryx-bird-head-toque-beanie-10575702/p",
+    "last_seen": "2025-11-17T15:42:43.907195+00:00",
+    "key": "arcteryx-bird-head-toque-beanie-10575702"
+  },
+  "arcteryx-small-bird-cap-10602844": {
+    "title": "Small Bird Cap",
+    "sku": "",
+    "color": "Select Color* Requires selection",
+    "currency": "$",
+    "price": 50.0,
+    "sizes_avail": [
+      "MAKE MY STORE",
+      "MY AL'S FIND YOUR STORE",
+      "RECEIVE CODE BY EMAIL",
+      "S/M",
+      "SIGN IN W/ GOOGLE",
+      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+    ],
+    "in_stock": true,
     "url": "https://www.als.com/arcteryx-small-bird-cap-10602844/p",
-    "last_seen": "2025-11-17T14:44:56.301995+00:00",
+    "last_seen": "2025-11-17T15:42:47.224169+00:00",
     "key": "arcteryx-small-bird-cap-10602844"
   },
   "arcteryx-kragg-sl-cotton-bird-tile-long-sleeve-shirt-mens-10602852": {
@@ -1034,17 +1102,33 @@
     "currency": "$",
     "price": 80.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
+      "CLOSE",
+      "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
+      "FEATURES",
+      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
       "S",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
+      "USE MY LOCATION",
+      "XL",
+      "XXL",
+      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-sl-cotton-bird-tile-long-sleeve-shirt-mens-10602852/p",
-    "last_seen": "2025-11-17T14:44:59.256181+00:00",
+    "last_seen": "2025-11-17T15:42:51.061329+00:00",
     "key": "arcteryx-kragg-sl-cotton-bird-tile-long-sleeve-shirt-mens-10602852"
   },
   "arcteryx-cerium-hoody-mens-10609909": {
@@ -1079,7 +1163,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cerium-hoody-mens-10609909/p",
-    "last_seen": "2025-11-17T14:45:02.703641+00:00",
+    "last_seen": "2025-11-17T15:42:54.580143+00:00",
     "key": "arcteryx-cerium-hoody-mens-10609909"
   },
   "arcteryx-atom-jacket-womens-10575701": {
@@ -1111,15 +1195,15 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-jacket-womens-10575701/p",
-    "last_seen": "2025-11-17T14:45:06.015413+00:00",
+    "last_seen": "2025-11-17T15:42:58.130231+00:00",
     "key": "arcteryx-atom-jacket-womens-10575701"
   },
-  "arcteryx-thorium-hoodie-mens-10411965": {
-    "title": "Thorium Hoodie - Men's",
+  "arcteryx-gamma-sl-pant-womens-10602865": {
+    "title": "Gamma Sl Pant - Women's",
     "sku": "",
-    "color": "Select Color* Requires selection",
+    "color": "Black Sapphire* Requires selection",
     "currency": "$",
-    "price": 500.0,
+    "price": 160.0,
     "sizes_avail": [
       "ACCEPT COOKIES",
       "ALLOW ALL",
@@ -1131,23 +1215,42 @@
       "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
       "FILTER ICON",
-      "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REGULAR",
       "REJECT ALL",
-      "S",
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
-      "VIEW FEWER IMAGES",
-      "VIEW MORE IMAGES",
-      "XL",
       "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
+    "url": "https://www.als.com/arcteryx-gamma-sl-pant-womens-10602865/p",
+    "last_seen": "2025-11-17T15:43:02.351679+00:00",
+    "key": "arcteryx-gamma-sl-pant-womens-10602865"
+  },
+  "arcteryx-thorium-hoodie-mens-10411965": {
+    "title": "Thorium Hoodie - Men's",
+    "sku": "",
+    "color": "Select Color* Requires selection",
+    "currency": "$",
+    "price": 500.0,
+    "sizes_avail": [
+      "FEATURES",
+      "M",
+      "MAKE MY STORE",
+      "RECEIVE CODE BY EMAIL",
+      "S",
+      "SIGN IN W/ GOOGLE",
+      "VIEW FEWER IMAGES",
+      "VIEW MORE IMAGES",
+      "XL",
+      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+    ],
+    "in_stock": true,
     "url": "https://www.als.com/arcteryx-thorium-hoodie-mens-10411965/p",
-    "last_seen": "2025-11-17T14:45:09.645306+00:00",
+    "last_seen": "2025-11-17T15:43:05.841621+00:00",
     "key": "arcteryx-thorium-hoodie-mens-10411965"
   },
   "arcteryx-grotto-toque-beanie-10606714": {
@@ -1157,18 +1260,27 @@
     "currency": "$",
     "price": 60.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
       "CLOSE",
+      "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
+      "FILTER ICON",
       "MAKE MY STORE",
+      "MY AL'S FIND YOUR STORE",
       "ONE SIZE",
-      "RECEIVE CODE BY EMAIL",
-      "SIGN IN W/ GOOGLE",
+      "REJECT ALL",
+      "SUBMIT",
       "USE MY LOCATION",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR PRIVACY CHOICES"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-grotto-toque-beanie-10606714/p",
-    "last_seen": "2025-11-17T14:45:12.788790+00:00",
+    "last_seen": "2025-11-17T15:43:09.458933+00:00",
     "key": "arcteryx-grotto-toque-beanie-10606714"
   },
   "arcteryx-cronin-insulated-overshirt-mens-10609913": {
@@ -1184,6 +1296,7 @@
       "CANCEL",
       "CLEAR",
       "CLOSE",
+      "CONFIRM MY CHOICES",
       "DETAILS",
       "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
@@ -1194,13 +1307,14 @@
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
+      "USE WEBSITE IN A SCREEN-READER MODE",
       "XL",
       "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cronin-insulated-overshirt-mens-10609913/p",
-    "last_seen": "2025-11-17T14:45:16.092327+00:00",
+    "last_seen": "2025-11-17T15:43:13.123334+00:00",
     "key": "arcteryx-cronin-insulated-overshirt-mens-10609913"
   },
   "arcteryx-atom-sl-hoodie-womens-10611570": {
@@ -1210,22 +1324,31 @@
     "currency": "$",
     "price": 280.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
       "CLOSE",
       "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
+      "FILTER ICON",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XXL",
+      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-sl-hoodie-womens-10611570/p",
-    "last_seen": "2025-11-17T14:45:19.333274+00:00",
+    "last_seen": "2025-11-17T15:43:16.987072+00:00",
     "key": "arcteryx-atom-sl-hoodie-womens-10611570"
   },
   "arcteryx-bird-word-cap-10602840": {
@@ -1253,11 +1376,11 @@
       "SUBMIT",
       "USE MY LOCATION",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-bird-word-cap-10602840/p",
-    "last_seen": "2025-11-17T14:45:22.580089+00:00",
+    "last_seen": "2025-11-17T15:43:20.742097+00:00",
     "key": "arcteryx-bird-word-cap-10602840"
   },
   "arcteryx-kragg-sl-cotton-emblem-short-sleeve-crew-womens-10609102": {
@@ -1282,6 +1405,7 @@
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
       "REJECT ALL",
+      "S",
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
@@ -1292,7 +1416,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-sl-cotton-emblem-short-sleeve-crew-womens-10609102/p",
-    "last_seen": "2025-11-17T14:45:25.800948+00:00",
+    "last_seen": "2025-11-17T15:43:28.125366+00:00",
     "key": "arcteryx-kragg-sl-cotton-emblem-short-sleeve-crew-womens-10609102"
   },
   "arcteryx-delta-pullover-hoodie-mens-10609100": {
@@ -1330,7 +1454,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-pullover-hoodie-mens-10609100/p",
-    "last_seen": "2025-11-17T14:45:29.105004+00:00",
+    "last_seen": "2025-11-17T15:43:32.121087+00:00",
     "key": "arcteryx-delta-pullover-hoodie-mens-10609100"
   },
   "arcteryx-kyanite-jacket-womens-10575684": {
@@ -1363,7 +1487,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kyanite-jacket-womens-10575684/p",
-    "last_seen": "2025-11-17T14:45:32.340628+00:00",
+    "last_seen": "2025-11-17T15:43:35.848933+00:00",
     "key": "arcteryx-kyanite-jacket-womens-10575684"
   },
   "arcteryx-cerium-jacket-womens-10575579": {
@@ -1395,7 +1519,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cerium-jacket-womens-10575579/p",
-    "last_seen": "2025-11-17T14:45:35.458789+00:00",
+    "last_seen": "2025-11-17T15:43:39.892745+00:00",
     "key": "arcteryx-cerium-jacket-womens-10575579"
   },
   "arcteryx-taema-crew-short-sleeve-shirt-womens-10574999": {
@@ -1405,33 +1529,20 @@
     "currency": "$",
     "price": 70.0,
     "sizes_avail": [
-      "ACCEPT COOKIES",
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
-      "CLOSE",
-      "DETAILS",
-      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
-      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
-      "REJECT ALL",
       "S",
       "SIGN IN W/ GOOGLE",
-      "SUBMIT",
-      "USE MY LOCATION",
       "XL",
       "XS",
-      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-taema-crew-short-sleeve-shirt-womens-10574999/p",
-    "last_seen": "2025-11-17T14:45:39.081833+00:00",
+    "last_seen": "2025-11-17T15:43:43.371235+00:00",
     "key": "arcteryx-taema-crew-short-sleeve-shirt-womens-10574999"
   },
   "arcteryx-kragg-cotton-little-bird-crew-short-sleeve-shirt-womens-10602847": {
@@ -1469,7 +1580,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-cotton-little-bird-crew-short-sleeve-shirt-womens-10602847/p",
-    "last_seen": "2025-11-17T14:45:42.586633+00:00",
+    "last_seen": "2025-11-17T15:43:47.443334+00:00",
     "key": "arcteryx-kragg-cotton-little-bird-crew-short-sleeve-shirt-womens-10602847"
   },
   "arcteryx-cormac-short-sleeve-crew-mens-10602859": {
@@ -1502,7 +1613,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cormac-short-sleeve-crew-mens-10602859/p",
-    "last_seen": "2025-11-17T14:45:45.967751+00:00",
+    "last_seen": "2025-11-17T15:43:51.036044+00:00",
     "key": "arcteryx-cormac-short-sleeve-crew-mens-10602859"
   },
   "arcteryx-skyline-melange-short-sleeve-shirt-mens-10482339": {
@@ -1512,18 +1623,26 @@
     "currency": "$",
     "price": 90.0,
     "sizes_avail": [
-      "CLOSE",
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
+      "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
-      "MAKE MY STORE",
+      "FILTER ICON",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
       "SIGN IN W/ GOOGLE",
-      "USE MY LOCATION",
+      "SUBMIT",
       "XL",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR PRIVACY CHOICES",
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-skyline-melange-short-sleeve-shirt-mens-10482339/p",
-    "last_seen": "2025-11-17T14:45:48.679907+00:00",
+    "last_seen": "2025-11-17T15:43:54.268052+00:00",
     "key": "arcteryx-skyline-melange-short-sleeve-shirt-mens-10482339"
   },
   "arcteryx-taema-crop-short-sleeve-shirt-womens-10482347": {
@@ -1558,7 +1677,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-taema-crop-short-sleeve-shirt-womens-10482347/p",
-    "last_seen": "2025-11-17T14:45:52.149972+00:00",
+    "last_seen": "2025-11-17T15:43:58.071796+00:00",
     "key": "arcteryx-taema-crop-short-sleeve-shirt-womens-10482347"
   },
   "arcteryx-silene-short-sleeve-crew-shirt-womens-10505580": {
@@ -1593,7 +1712,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-silene-short-sleeve-crew-shirt-womens-10505580/p",
-    "last_seen": "2025-11-17T14:45:55.861457+00:00",
+    "last_seen": "2025-11-17T15:44:01.940885+00:00",
     "key": "arcteryx-silene-short-sleeve-crew-shirt-womens-10505580"
   },
   "arcteryx-delta-12-zip-neck-pullover-jacket-mens-10575704": {
@@ -1603,15 +1722,31 @@
     "currency": "$",
     "price": 180.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
+      "CLOSE",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
+      "FEATURES",
+      "FILTER ICON",
+      "L",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
+      "S",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
       "USE MY LOCATION",
+      "XL",
+      "XXL",
+      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-12-zip-neck-pullover-jacket-mens-10575704/p",
-    "last_seen": "2025-11-17T14:45:58.678076+00:00",
+    "last_seen": "2025-11-17T15:44:06.743988+00:00",
     "key": "arcteryx-delta-12-zip-neck-pullover-jacket-mens-10575704"
   },
   "arcteryx-norvan-jacket-mens-10611576": {
@@ -1644,7 +1779,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-norvan-jacket-mens-10611576/p",
-    "last_seen": "2025-11-17T14:46:01.989385+00:00",
+    "last_seen": "2025-11-17T15:44:10.821229+00:00",
     "key": "arcteryx-norvan-jacket-mens-10611576"
   },
   "arcteryx-taema-tank-womens-10574998": {
@@ -1654,35 +1789,24 @@
     "currency": "$",
     "price": 60.0,
     "sizes_avail": [
-      "ACCEPT COOKIES",
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
       "CLOSE",
-      "DETAILS",
-      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
-      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
-      "REJECT ALL",
       "S",
       "SIGN IN W/ GOOGLE",
-      "SUBMIT",
       "USE MY LOCATION",
       "XL",
       "XS",
       "XXL",
       "XXS",
-      "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-taema-tank-womens-10574998/p",
-    "last_seen": "2025-11-17T14:46:05.590114+00:00",
+    "last_seen": "2025-11-17T15:44:14.423315+00:00",
     "key": "arcteryx-taema-tank-womens-10574998"
   },
   "arcteryx-taema-crew-neck-long-sleeve-shirt-womens-10574997": {
@@ -1692,31 +1816,19 @@
     "currency": "$",
     "price": 80.0,
     "sizes_avail": [
-      "ACCEPT COOKIES",
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
-      "CLOSE",
-      "DETAILS",
-      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
-      "FILTER ICON",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
-      "REJECT ALL",
       "SIGN IN W/ GOOGLE",
-      "SUBMIT",
       "USE MY LOCATION",
       "XL",
       "XS",
       "XXL",
-      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-taema-crew-neck-long-sleeve-shirt-womens-10574997/p",
-    "last_seen": "2025-11-17T14:46:08.978361+00:00",
+    "last_seen": "2025-11-17T15:44:17.620537+00:00",
     "key": "arcteryx-taema-crew-neck-long-sleeve-shirt-womens-10574997"
   },
   "arcteryx-sima-short-sleeve-shirt-womens-10602871": {
@@ -1747,11 +1859,11 @@
       "XL",
       "XS",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sima-short-sleeve-shirt-womens-10602871/p",
-    "last_seen": "2025-11-17T14:46:12.277374+00:00",
+    "last_seen": "2025-11-17T15:44:21.867617+00:00",
     "key": "arcteryx-sima-short-sleeve-shirt-womens-10602871"
   },
   "arcteryx-gamma-5-panel-cap-10602841": {
@@ -1767,6 +1879,7 @@
       "CANCEL",
       "CLEAR",
       "CLOSE",
+      "CONFIRM MY CHOICES",
       "DETAILS",
       "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
@@ -1784,7 +1897,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-gamma-5-panel-cap-10602841/p",
-    "last_seen": "2025-11-17T14:46:15.581905+00:00",
+    "last_seen": "2025-11-17T15:44:25.934203+00:00",
     "key": "arcteryx-gamma-5-panel-cap-10602841"
   },
   "arcteryx-gamma-utility-short-womens-10602860": {
@@ -1811,11 +1924,11 @@
       "SUBMIT",
       "USE MY LOCATION",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-gamma-utility-short-womens-10602860/p",
-    "last_seen": "2025-11-17T14:46:18.866042+00:00",
+    "last_seen": "2025-11-17T15:44:29.657135+00:00",
     "key": "arcteryx-gamma-utility-short-womens-10602860"
   },
   "arcteryx-taema-crop-logo-short-sleeve-shirt-womens-10602866": {
@@ -1850,7 +1963,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-taema-crop-logo-short-sleeve-shirt-womens-10602866/p",
-    "last_seen": "2025-11-17T14:46:22.381518+00:00",
+    "last_seen": "2025-11-17T15:44:33.939503+00:00",
     "key": "arcteryx-taema-crop-logo-short-sleeve-shirt-womens-10602866"
   },
   "arcteryx-lana-merino-wool-short-sleeve-crew-womens-10609101": {
@@ -1877,13 +1990,14 @@
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
+      "USE WEBSITE IN A SCREEN-READER MODE",
       "XL",
       "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-lana-merino-wool-short-sleeve-crew-womens-10609101/p",
-    "last_seen": "2025-11-17T14:46:25.855255+00:00",
+    "last_seen": "2025-11-17T15:44:38.832464+00:00",
     "key": "arcteryx-lana-merino-wool-short-sleeve-crew-womens-10609101"
   },
   "arcteryx-norvan-insulated-vest-womens-10611575": {
@@ -1893,19 +2007,31 @@
     "currency": "$",
     "price": 180.0,
     "sizes_avail": [
+      "ACCEPT COOKIES",
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
+      "CLOSE",
+      "DETAILS",
+      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
+      "FILTER ICON",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT ALL",
       "S",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
       "USE MY LOCATION",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR PRIVACY CHOICES",
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-norvan-insulated-vest-womens-10611575/p",
-    "last_seen": "2025-11-17T14:46:28.926274+00:00",
+    "last_seen": "2025-11-17T15:44:42.426674+00:00",
     "key": "arcteryx-norvan-insulated-vest-womens-10611575"
   },
   "arcteryx-norvan-crew-neck-ss-shirt-womens-10611573": {
@@ -1921,6 +2047,7 @@
       "CANCEL",
       "CLEAR",
       "CLOSE",
+      "CONFIRM MY CHOICES",
       "DETAILS",
       "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
@@ -1934,6 +2061,7 @@
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
+      "USE WEBSITE IN A SCREEN-READER MODE",
       "XL",
       "XS",
       "YOUR PRIVACY CHOICES",
@@ -1941,7 +2069,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-norvan-crew-neck-ss-shirt-womens-10611573/p",
-    "last_seen": "2025-11-17T14:46:32.805415+00:00",
+    "last_seen": "2025-11-17T15:44:46.722014+00:00",
     "key": "arcteryx-norvan-crew-neck-ss-shirt-womens-10611573"
   },
   "arcteryx-norvan-tank-womens-10611572": {
@@ -1951,32 +2079,21 @@
     "currency": "$",
     "price": 80.0,
     "sizes_avail": [
-      "ACCEPT COOKIES",
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
       "CLOSE",
-      "DETAILS",
-      "DO NOT SELL OR SHARE MY PERSONAL INFORMATION",
       "FEATURES",
-      "FILTER ICON",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
-      "REJECT ALL",
       "SIGN IN W/ GOOGLE",
-      "SUBMIT",
       "USE MY LOCATION",
       "XL",
       "XS",
-      "YOUR PRIVACY CHOICES",
-      "YOUR STORE ST. GEORGE UT CLOSED. OPENS TODAY AT 9AM"
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 9PM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-norvan-tank-womens-10611572/p",
-    "last_seen": "2025-11-17T14:46:36.439997+00:00",
+    "last_seen": "2025-11-17T15:44:56.480071+00:00",
     "key": "arcteryx-norvan-tank-womens-10611572"
   }
 }
