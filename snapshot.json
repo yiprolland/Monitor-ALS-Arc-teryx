@@ -11,11 +11,9 @@
       "CANCEL",
       "CLEAR",
       "CLOSE",
-      "CONFIRM MY CHOICES",
       "FEATURES",
       "FILTER ICON",
       "FREE SHIPPING ON ORDERS OVER $50*",
-      "I UNDERSTAND",
       "L",
       "M",
       "MAKE MY STORE",
@@ -26,19 +24,17 @@
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
-      "USE WEBSITE IN A SCREEN-READER MODE",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XL",
       "XS",
       "XXL",
       "YOUR PRIVACY CHOICES",
-      "YOUR PRIVACY RIGHTS",
       "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-hooded-jacket-mens-10602853/p",
-    "last_seen": "2026-02-13T21:56:19.707075+00:00",
+    "last_seen": "2026-02-13T22:22:55.901028+00:00",
     "key": "arcteryx-atom-hooded-jacket-mens-10602853"
   },
   "arcteryx-atom-hoodie-womens-10453371": {
@@ -77,7 +73,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-hoodie-womens-10453371/p",
-    "last_seen": "2026-02-13T21:56:23.039996+00:00",
+    "last_seen": "2026-02-13T22:22:59.016769+00:00",
     "key": "arcteryx-atom-hoodie-womens-10453371"
   },
   "arcteryx-atom-vest-mens-10489199": {
@@ -87,46 +83,21 @@
     "currency": "$",
     "price": 200.0,
     "sizes_avail": [
-      "CLOSE",
-      "L",
-      "M",
-      "MAKE MY STORE",
-      "RECEIVE CODE BY EMAIL",
-      "S",
-      "SIGN IN W/ GOOGLE",
-      "USE MY LOCATION",
-      "VIEW FEWER IMAGES",
-      "VIEW MORE IMAGES",
-      "XL",
-      "XXL",
-      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
-    ],
-    "in_stock": true,
-    "url": "https://www.als.com/arcteryx-atom-vest-mens-10489199/p",
-    "last_seen": "2026-02-13T21:56:25.956255+00:00",
-    "key": "arcteryx-atom-vest-mens-10489199"
-  },
-  "arcteryx-cerium-hoody-mens-10609909": {
-    "title": "Cerium Hoody - Men's",
-    "sku": "",
-    "color": "Black Sapphire* Requires selection",
-    "currency": "$",
-    "price": 400.0,
-    "sizes_avail": [
       "ALLOW ALL",
       "APPLY",
       "CANCEL",
       "CLEAR",
       "CLOSE",
-      "DETAILS",
       "FEATURES",
       "FILTER ICON",
       "FREE SHIPPING ON ORDERS OVER $50*",
-      "INCLUDES",
+      "L",
+      "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
       "REJECT NON NECESSARY",
       "RETURN POLICY",
+      "S",
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
@@ -138,8 +109,24 @@
       "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
     ],
     "in_stock": true,
+    "url": "https://www.als.com/arcteryx-atom-vest-mens-10489199/p",
+    "last_seen": "2026-02-13T22:23:02.098602+00:00",
+    "key": "arcteryx-atom-vest-mens-10489199"
+  },
+  "arcteryx-cerium-hoody-mens-10609909": {
+    "title": "Cerium Hoody - Men's",
+    "sku": "",
+    "color": "Black Sapphire* Requires selection",
+    "currency": "$",
+    "price": 400.0,
+    "sizes_avail": [
+      "MAKE MY STORE",
+      "RECEIVE CODE BY EMAIL",
+      "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
+    ],
+    "in_stock": true,
     "url": "https://www.als.com/arcteryx-cerium-hoody-mens-10609909/p",
-    "last_seen": "2026-02-13T21:56:29.246281+00:00",
+    "last_seen": "2026-02-13T22:23:04.631906+00:00",
     "key": "arcteryx-cerium-hoody-mens-10609909"
   },
   "arcteryx-cerium-hoodie-womens-10411922": {
@@ -177,7 +164,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cerium-hoodie-womens-10411922/p",
-    "last_seen": "2026-02-13T21:56:32.982103+00:00",
+    "last_seen": "2026-02-13T22:23:07.925156+00:00",
     "key": "arcteryx-cerium-hoodie-womens-10411922"
   },
   "arcteryx-beta-jacket-mens-10538325": {
@@ -212,7 +199,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-beta-jacket-mens-10538325/p",
-    "last_seen": "2026-02-13T21:56:36.256795+00:00",
+    "last_seen": "2026-02-13T22:23:11.251752+00:00",
     "key": "arcteryx-beta-jacket-mens-10538325"
   },
   "arcteryx-atom-vest-womens-10612673": {
@@ -243,7 +230,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-vest-womens-10612673/p",
-    "last_seen": "2026-02-13T21:56:39.306509+00:00",
+    "last_seen": "2026-02-13T22:23:14.317421+00:00",
     "key": "arcteryx-atom-vest-womens-10612673"
   },
   "arcteryx-gamma-mx-hoodie-mens-10616040": {
@@ -277,7 +264,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-gamma-mx-hoodie-mens-10616040/p",
-    "last_seen": "2026-02-13T21:56:42.405587+00:00",
+    "last_seen": "2026-02-13T22:23:17.227682+00:00",
     "key": "arcteryx-gamma-mx-hoodie-mens-10616040"
   },
   "arcteryx-gamma-pant-womens-10602874": {
@@ -308,7 +295,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-gamma-pant-womens-10602874/p",
-    "last_seen": "2026-02-13T21:56:45.629878+00:00",
+    "last_seen": "2026-02-13T22:23:20.394093+00:00",
     "key": "arcteryx-gamma-pant-womens-10602874"
   },
   "arcteryx-cerium-jacket-womens-10609905": {
@@ -342,7 +329,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cerium-jacket-womens-10609905/p",
-    "last_seen": "2026-02-13T21:56:48.914704+00:00",
+    "last_seen": "2026-02-13T22:23:23.353832+00:00",
     "key": "arcteryx-cerium-jacket-womens-10609905"
   },
   "arcteryx-kyanite-hoody-womens-10602848": {
@@ -376,7 +363,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kyanite-hoody-womens-10602848/p",
-    "last_seen": "2026-02-13T21:56:52.185681+00:00",
+    "last_seen": "2026-02-13T22:23:26.446709+00:00",
     "key": "arcteryx-kyanite-hoody-womens-10602848"
   },
   "arcteryx-gamma-pant-mens-10612294": {
@@ -407,7 +394,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-gamma-pant-mens-10612294/p",
-    "last_seen": "2026-02-13T21:56:55.242641+00:00",
+    "last_seen": "2026-02-13T22:23:29.358263+00:00",
     "key": "arcteryx-gamma-pant-mens-10612294"
   },
   "arcteryx-kragg-cotton-tshirt-mens-10609103": {
@@ -443,7 +430,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-cotton-tshirt-mens-10609103/p",
-    "last_seen": "2026-02-13T21:56:58.388216+00:00",
+    "last_seen": "2026-02-13T22:23:32.218851+00:00",
     "key": "arcteryx-kragg-cotton-tshirt-mens-10609103"
   },
   "arcteryx-beta-jacket-womens-10609803": {
@@ -476,7 +463,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-beta-jacket-womens-10609803/p",
-    "last_seen": "2026-02-13T21:57:01.891753+00:00",
+    "last_seen": "2026-02-13T22:23:35.095566+00:00",
     "key": "arcteryx-beta-jacket-womens-10609803"
   },
   "arcteryx-silex-cap-womens-10612801": {
@@ -507,7 +494,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-silex-cap-womens-10612801/p",
-    "last_seen": "2026-02-13T21:57:05.889332+00:00",
+    "last_seen": "2026-02-13T22:23:38.080953+00:00",
     "key": "arcteryx-silex-cap-womens-10612801"
   },
   "arcteryx-emblem-fleece-crew-shirt-womens-10411924": {
@@ -540,7 +527,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-emblem-fleece-crew-shirt-womens-10411924/p",
-    "last_seen": "2026-02-13T21:57:09.026728+00:00",
+    "last_seen": "2026-02-13T22:23:41.260267+00:00",
     "key": "arcteryx-emblem-fleece-crew-shirt-womens-10411924"
   },
   "arcteryx-beta-sl-jacket-womens-10612674": {
@@ -574,7 +561,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-beta-sl-jacket-womens-10612674/p",
-    "last_seen": "2026-02-13T21:57:12.144694+00:00",
+    "last_seen": "2026-02-13T22:23:44.273416+00:00",
     "key": "arcteryx-beta-sl-jacket-womens-10612674"
   },
   "arcteryx-bird-word-cap-10602840": {
@@ -606,7 +593,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-bird-word-cap-10602840/p",
-    "last_seen": "2026-02-13T21:57:15.221161+00:00",
+    "last_seen": "2026-02-13T22:23:47.467518+00:00",
     "key": "arcteryx-bird-word-cap-10602840"
   },
   "arcteryx-sentinel-insulated-pant-womens-10609802": {
@@ -637,7 +624,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sentinel-insulated-pant-womens-10609802/p",
-    "last_seen": "2026-02-13T21:57:18.260278+00:00",
+    "last_seen": "2026-02-13T22:23:50.512511+00:00",
     "key": "arcteryx-sentinel-insulated-pant-womens-10609802"
   },
   "arcteryx-cerium-jacket-mens-10575689": {
@@ -670,7 +657,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cerium-jacket-mens-10575689/p",
-    "last_seen": "2026-02-13T21:57:21.105219+00:00",
+    "last_seen": "2026-02-13T22:23:53.377800+00:00",
     "key": "arcteryx-cerium-jacket-mens-10575689"
   },
   "arcteryx-sabre-insulated-snow-jacket-mens-10609801": {
@@ -680,33 +667,21 @@
     "currency": "$",
     "price": 900.0,
     "sizes_avail": [
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
       "CLOSE",
       "FEATURES",
-      "FILTER ICON",
       "FREE SHIPPING ON ORDERS OVER $50*",
       "L",
       "M",
-      "MAKE MY STORE",
-      "RECEIVE CODE BY EMAIL",
-      "REJECT NON NECESSARY",
       "RETURN POLICY",
       "S",
-      "SIGN IN W/ GOOGLE",
-      "SUBMIT",
-      "USE MY LOCATION",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XL",
-      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sabre-insulated-snow-jacket-mens-10609801/p",
-    "last_seen": "2026-02-13T21:57:24.388728+00:00",
+    "last_seen": "2026-02-13T22:23:56.133544+00:00",
     "key": "arcteryx-sabre-insulated-snow-jacket-mens-10609801"
   },
   "arcteryx-kragg-cotton-bird-word-tshirt-mens-10602868": {
@@ -721,6 +696,7 @@
       "CANCEL",
       "CLEAR",
       "CLOSE",
+      "CONFIRM MY CHOICES",
       "FEATURES",
       "FILTER ICON",
       "FREE SHIPPING ON ORDERS OVER $50*",
@@ -733,6 +709,7 @@
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
+      "USE WEBSITE IN A SCREEN-READER MODE",
       "XL",
       "XXL",
       "YOUR PRIVACY CHOICES",
@@ -740,7 +717,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-cotton-bird-word-tshirt-mens-10602868/p",
-    "last_seen": "2026-02-13T21:57:27.556732+00:00",
+    "last_seen": "2026-02-13T22:23:58.977786+00:00",
     "key": "arcteryx-kragg-cotton-bird-word-tshirt-mens-10602868"
   },
   "arcteryx-kragg-cotton-little-bird-crew-short-sleeve-shirt-womens-10602847": {
@@ -777,7 +754,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-cotton-little-bird-crew-short-sleeve-shirt-womens-10602847/p",
-    "last_seen": "2026-02-13T21:57:30.750607+00:00",
+    "last_seen": "2026-02-13T22:24:01.834248+00:00",
     "key": "arcteryx-kragg-cotton-little-bird-crew-short-sleeve-shirt-womens-10602847"
   },
   "arcteryx-beta-pant-mens-10609798": {
@@ -813,7 +790,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-beta-pant-mens-10609798/p",
-    "last_seen": "2026-02-13T21:57:33.853528+00:00",
+    "last_seen": "2026-02-13T22:24:04.847192+00:00",
     "key": "arcteryx-beta-pant-mens-10609798"
   },
   "arcteryx-sentinel-snow-bib-womens-10575698": {
@@ -844,7 +821,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sentinel-snow-bib-womens-10575698/p",
-    "last_seen": "2026-02-13T21:57:38.014510+00:00",
+    "last_seen": "2026-02-13T22:24:07.974674+00:00",
     "key": "arcteryx-sentinel-snow-bib-womens-10575698"
   },
   "arcteryx-rush-snow-jacket-womens-10609805": {
@@ -879,7 +856,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-rush-snow-jacket-womens-10609805/p",
-    "last_seen": "2026-02-13T21:57:41.344691+00:00",
+    "last_seen": "2026-02-13T22:24:10.972634+00:00",
     "key": "arcteryx-rush-snow-jacket-womens-10609805"
   },
   "arcteryx-sentinel-shell-jacket-womens-10616007": {
@@ -915,7 +892,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sentinel-shell-jacket-womens-10616007/p",
-    "last_seen": "2026-02-13T21:57:44.560880+00:00",
+    "last_seen": "2026-02-13T22:24:14.048185+00:00",
     "key": "arcteryx-sentinel-shell-jacket-womens-10616007"
   },
   "arcteryx-delta-jacket-mens-10575708": {
@@ -949,7 +926,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-jacket-mens-10575708/p",
-    "last_seen": "2026-02-13T21:57:47.767971+00:00",
+    "last_seen": "2026-02-13T22:24:17.213873+00:00",
     "key": "arcteryx-delta-jacket-mens-10575708"
   },
   "arcteryx-rush-bib-pant-mens-10609800": {
@@ -959,35 +936,20 @@
     "currency": "$",
     "price": 750.0,
     "sizes_avail": [
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
-      "CLOSE",
-      "FEATURES",
-      "FILTER ICON",
-      "FREE SHIPPING ON ORDERS OVER $50*",
       "L",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
-      "REGULAR",
-      "REJECT NON NECESSARY",
-      "RETURN POLICY",
       "S",
       "SIGN IN W/ GOOGLE",
-      "SUBMIT",
       "USE MY LOCATION",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
-      "XL",
-      "XXL",
-      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-rush-bib-pant-mens-10609800/p",
-    "last_seen": "2026-02-13T21:57:51.186259+00:00",
+    "last_seen": "2026-02-13T22:24:20.160098+00:00",
     "key": "arcteryx-rush-bib-pant-mens-10609800"
   },
   "arcteryx-rush-snow-jacket-mens-10609799": {
@@ -1024,7 +986,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-rush-snow-jacket-mens-10609799/p",
-    "last_seen": "2026-02-13T21:57:54.432565+00:00",
+    "last_seen": "2026-02-13T22:24:23.160348+00:00",
     "key": "arcteryx-rush-snow-jacket-mens-10609799"
   },
   "arcteryx-beta-insulated-jacket-mens-10619976": {
@@ -1061,7 +1023,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-beta-insulated-jacket-mens-10619976/p",
-    "last_seen": "2026-02-13T21:57:57.590894+00:00",
+    "last_seen": "2026-02-13T22:24:26.301181+00:00",
     "key": "arcteryx-beta-insulated-jacket-mens-10619976"
   },
   "arcteryx-taema-crew-short-sleeve-shirt-womens-10574999": {
@@ -1093,7 +1055,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-taema-crew-short-sleeve-shirt-womens-10574999/p",
-    "last_seen": "2026-02-13T21:58:00.540517+00:00",
+    "last_seen": "2026-02-13T22:24:29.288717+00:00",
     "key": "arcteryx-taema-crew-short-sleeve-shirt-womens-10574999"
   },
   "arcteryx-sabre-pant-mens-10575697": {
@@ -1129,7 +1091,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-sabre-pant-mens-10575697/p",
-    "last_seen": "2026-02-13T21:58:05.761556+00:00",
+    "last_seen": "2026-02-13T22:24:34.224180+00:00",
     "key": "arcteryx-sabre-pant-mens-10575697"
   },
   "arcteryx-beta-pant-womens-10609804": {
@@ -1160,7 +1122,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-beta-pant-womens-10609804/p",
-    "last_seen": "2026-02-13T21:58:08.681492+00:00",
+    "last_seen": "2026-02-13T22:24:37.108456+00:00",
     "key": "arcteryx-beta-pant-womens-10609804"
   },
   "arcteryx-bird-word-trucker-curved-hat-10505569": {
@@ -1192,7 +1154,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-bird-word-trucker-curved-hat-10505569/p",
-    "last_seen": "2026-02-13T21:58:11.530653+00:00",
+    "last_seen": "2026-02-13T22:24:40.317105+00:00",
     "key": "arcteryx-bird-word-trucker-curved-hat-10505569"
   },
   "arcteryx-atom-sl-jacket-womens-10602850": {
@@ -1202,19 +1164,32 @@
     "currency": "$",
     "price": 260.0,
     "sizes_avail": [
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
+      "CLOSE",
+      "FEATURES",
+      "FILTER ICON",
+      "FREE SHIPPING ON ORDERS OVER $50*",
       "M",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT NON NECESSARY",
+      "RETURN POLICY",
       "S",
       "SIGN IN W/ GOOGLE",
+      "SUBMIT",
+      "USE MY LOCATION",
       "VIEW FEWER IMAGES",
       "VIEW MORE IMAGES",
       "XS",
+      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-atom-sl-jacket-womens-10602850/p",
-    "last_seen": "2026-02-13T21:58:14.305418+00:00",
+    "last_seen": "2026-02-13T22:24:43.796731+00:00",
     "key": "arcteryx-atom-sl-jacket-womens-10602850"
   },
   "arcteryx-elec-insulated-jacket-womens-10609904": {
@@ -1224,29 +1199,19 @@
     "currency": "$",
     "price": 300.0,
     "sizes_avail": [
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
-      "CLOSE",
       "FEATURES",
-      "FILTER ICON",
       "FREE SHIPPING ON ORDERS OVER $50*",
       "L",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
-      "REJECT NON NECESSARY",
       "RETURN POLICY",
       "SIGN IN W/ GOOGLE",
-      "SUBMIT",
-      "USE MY LOCATION",
       "XL",
-      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-elec-insulated-jacket-womens-10609904/p",
-    "last_seen": "2026-02-13T21:58:17.194363+00:00",
+    "last_seen": "2026-02-13T22:24:46.490467+00:00",
     "key": "arcteryx-elec-insulated-jacket-womens-10609904"
   },
   "arcteryx-kragg-cotton-lithographica-tshirt-mens-10609915": {
@@ -1280,7 +1245,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-cotton-lithographica-tshirt-mens-10609915/p",
-    "last_seen": "2026-02-13T21:58:20.082692+00:00",
+    "last_seen": "2026-02-13T22:24:49.487058+00:00",
     "key": "arcteryx-kragg-cotton-lithographica-tshirt-mens-10609915"
   },
   "arcteryx-kyanite-jacket-womens-10575684": {
@@ -1313,7 +1278,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kyanite-jacket-womens-10575684/p",
-    "last_seen": "2026-02-13T21:58:23.070716+00:00",
+    "last_seen": "2026-02-13T22:24:52.406008+00:00",
     "key": "arcteryx-kyanite-jacket-womens-10575684"
   },
   "arcteryx-emblem-fleece-crew-neck-pullover-womens-10609908": {
@@ -1323,22 +1288,29 @@
     "currency": "$",
     "price": 110.0,
     "sizes_avail": [
+      "ALLOW ALL",
+      "APPLY",
+      "CANCEL",
+      "CLEAR",
       "CLOSE",
       "FEATURES",
+      "FILTER ICON",
       "FREE SHIPPING ON ORDERS OVER $50*",
       "L",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
+      "REJECT NON NECESSARY",
       "RETURN POLICY",
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
       "XS",
+      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-emblem-fleece-crew-neck-pullover-womens-10609908/p",
-    "last_seen": "2026-02-13T21:58:25.756481+00:00",
+    "last_seen": "2026-02-13T22:24:55.511776+00:00",
     "key": "arcteryx-emblem-fleece-crew-neck-pullover-womens-10609908"
   },
   "arcteryx-delta-jacket-womens-10609907": {
@@ -1348,30 +1320,18 @@
     "currency": "$",
     "price": 200.0,
     "sizes_avail": [
-      "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
-      "CLEAR",
-      "CLOSE",
-      "FEATURES",
-      "FILTER ICON",
-      "FREE SHIPPING ON ORDERS OVER $50*",
       "M",
       "MAKE MY STORE",
+      "MY AL'S FIND YOUR STORE",
       "RECEIVE CODE BY EMAIL",
-      "REJECT NON NECESSARY",
-      "RETURN POLICY",
       "S",
       "SIGN IN W/ GOOGLE",
-      "SUBMIT",
-      "USE MY LOCATION",
       "XS",
-      "YOUR PRIVACY CHOICES",
       "YOUR STORE ST. GEORGE UT OPEN TODAY UNTIL 4AM"
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-jacket-womens-10609907/p",
-    "last_seen": "2026-02-13T21:58:28.843665+00:00",
+    "last_seen": "2026-02-13T22:24:58.017534+00:00",
     "key": "arcteryx-delta-jacket-womens-10609907"
   },
   "arcteryx-cronin-cotton-overshirt-mens-10575694": {
@@ -1402,7 +1362,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-cronin-cotton-overshirt-mens-10575694/p",
-    "last_seen": "2026-02-13T21:58:31.771493+00:00",
+    "last_seen": "2026-02-13T22:25:00.962438+00:00",
     "key": "arcteryx-cronin-cotton-overshirt-mens-10575694"
   },
   "arcteryx-delta-pullover-hoodie-mens-10609100": {
@@ -1439,7 +1399,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-delta-pullover-hoodie-mens-10609100/p",
-    "last_seen": "2026-02-13T21:58:34.635291+00:00",
+    "last_seen": "2026-02-13T22:25:04.183126+00:00",
     "key": "arcteryx-delta-pullover-hoodie-mens-10609100"
   },
   "arcteryx-gamma-sl-pant-womens-10602865": {
@@ -1470,7 +1430,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-gamma-sl-pant-womens-10602865/p",
-    "last_seen": "2026-02-13T21:58:37.651892+00:00",
+    "last_seen": "2026-02-13T22:25:07.240287+00:00",
     "key": "arcteryx-gamma-sl-pant-womens-10602865"
   },
   "arcteryx-norvan-jacket-mens-10611576": {
@@ -1503,7 +1463,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-norvan-jacket-mens-10611576/p",
-    "last_seen": "2026-02-13T21:58:40.444817+00:00",
+    "last_seen": "2026-02-13T22:25:10.189896+00:00",
     "key": "arcteryx-norvan-jacket-mens-10611576"
   },
   "arcteryx-kragg-sl-cotton-emblem-short-sleeve-crew-womens-10609102": {
@@ -1534,7 +1494,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-sl-cotton-emblem-short-sleeve-crew-womens-10609102/p",
-    "last_seen": "2026-02-13T21:58:43.227912+00:00",
+    "last_seen": "2026-02-13T22:25:13.365505+00:00",
     "key": "arcteryx-kragg-sl-cotton-emblem-short-sleeve-crew-womens-10609102"
   },
   "arcteryx-taema-tank-womens-10574998": {
@@ -1545,21 +1505,18 @@
     "price": 60.0,
     "sizes_avail": [
       "ALLOW ALL",
-      "APPLY",
-      "CANCEL",
       "CLEAR",
       "CLOSE",
-      "CONFIRM MY CHOICES",
       "FEATURES",
       "FILTER ICON",
       "FREE SHIPPING ON ORDERS OVER $50*",
       "MAKE MY STORE",
       "RECEIVE CODE BY EMAIL",
-      "REJECT NON NECESSARY",
       "RETURN POLICY",
       "SIGN IN W/ GOOGLE",
       "SUBMIT",
       "USE MY LOCATION",
+      "USE WEBSITE IN A SCREEN-READER MODE",
       "XL",
       "XS",
       "XXL",
@@ -1569,7 +1526,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-taema-tank-womens-10574998/p",
-    "last_seen": "2026-02-13T21:58:46.152849+00:00",
+    "last_seen": "2026-02-13T22:25:16.444612+00:00",
     "key": "arcteryx-taema-tank-womens-10574998"
   },
   "arcteryx-kragg-approach-shoe-womens-10612835": {
@@ -1600,7 +1557,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-approach-shoe-womens-10612835/p",
-    "last_seen": "2026-02-13T21:58:49.138399+00:00",
+    "last_seen": "2026-02-13T22:25:19.770440+00:00",
     "key": "arcteryx-kragg-approach-shoe-womens-10612835"
   },
   "arcteryx-kragg-approach-shoe-mens-10612832": {
@@ -1624,7 +1581,6 @@
       "REJECT NON NECESSARY",
       "RETURN POLICY",
       "SIGN IN W/ GOOGLE",
-      "SOLD OUTADD TO CART",
       "SUBMIT",
       "USE MY LOCATION",
       "YOUR PRIVACY CHOICES",
@@ -1632,7 +1588,7 @@
     ],
     "in_stock": true,
     "url": "https://www.als.com/arcteryx-kragg-approach-shoe-mens-10612832/p",
-    "last_seen": "2026-02-13T21:58:52.134593+00:00",
+    "last_seen": "2026-02-13T22:25:22.942160+00:00",
     "key": "arcteryx-kragg-approach-shoe-mens-10612832"
   }
 }
